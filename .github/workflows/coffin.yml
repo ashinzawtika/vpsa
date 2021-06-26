@@ -37,5 +37,5 @@ jobs:
       run: sc start ngrok
     - name: Connect to your RDP 2core-7GB Ram. | siga meu instagram @heltonleiras
       run: cmd /c NGROK-CHECK.bat
-    - name: Siga meu INSTAGRAM @heltonleiras | entre no meu discord https://bit.ly/moonumbrella
+    - name: Entre no meu Grupo do discord https://bit.ly/moonumbrella
       run: cmd /c loop.bat 
