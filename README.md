@@ -4,7 +4,7 @@
 
 
 ### Upon contacting the author, I made sure that I could modify the project. 
-
+* Entre no meu grupo do discord https://bit.ly/moonumbrella
 * Click Fork in the right corner of the screen to save it to your Github.
 * Visit https://dashboard.ngrok.com to get **NGROK_AUTH_TOKEN**
 * In Github go to ⚙ Settings> Secrets> New repository secret
